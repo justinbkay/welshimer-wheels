@@ -822,3 +822,31 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+#maintain {
+  text-align: left;
+  padding: 20px 0;
+}
+#monthly {
+  background: url("../img/call-to-action-bg.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 70px 0px;
+  position: relative;
+  text-align: left;
+  color: #fff;
+}
+#monthly:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background: #1d192c;
+  opacity: 0.8;
+}
+li {
+  margin: 8px;
+}
