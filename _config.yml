@@ -16,7 +16,7 @@ title: Welshimer Wheels
 subtitle: "A Bicycle repair shop"
 url: "http://welshimerwheels.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: ""
+baseurl: "_site"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
